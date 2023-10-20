@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-egg/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-whee/
+*.egg-info/
+.installed.cfg
+*.egg
+data/
+# PyInstaller
+# Usually these files & folders are added to the project's .gitignore
+# if one uses PyInstaller to build the application.
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+.dbshell   # Windows binary file
+
+# Environment
+*.env
+venv/
+virtualenv/
+
+# Other
+*.log
+*.sqlite
+
